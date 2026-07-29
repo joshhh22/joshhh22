@@ -11,6 +11,14 @@
 ![React](https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,unity,blender,postgres,cs,cpp,lua,html,css,js)
 
 ## Contact
+## Contact
 
-- [![My Skills](https://skillicons.dev/icons?i=discord&theme=light)](https://skillicons.dev)joshh3015
-- [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](https://skillicons.dev)joshuarompisb@gmail.com
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=discord" width="28" />
+  <strong>joshh3015</strong>
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gmail" width="28" />
+  <strong>joshuarompisb@gmail.com</strong>
+</p>
