@@ -12,5 +12,5 @@
 
 ## Contact
 
-- !(https://skillsicons.dev/icons?!=discord)Discord:
+- [![My Skills](https://skillicons.dev/icons?i=discord&theme=light)](https://skillicons.dev)Discord:
 - Email: joshuarompisb@gmail.com
