@@ -8,9 +8,9 @@
 
 ## Tech Stack
 
-![React](https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,unity,blender,postgres,cs,cpp,lua)
+![React](https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,unity,blender,postgres,cs,cpp,lua,html,css,js)
 
 ## Contact
 
-- Discord:
+- !(https://skillsicons.dev/icons?!=discord)Discord:
 - Email: joshuarompisb@gmail.com
