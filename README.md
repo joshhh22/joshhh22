@@ -9,7 +9,7 @@
 ## Tech Stack
 
 ![React](https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,unity,blender,postgres)
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## Contact
 
