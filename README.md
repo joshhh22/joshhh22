@@ -50,7 +50,6 @@ class JoshuaRompis:
 
     fun_facts = [
         "🩸 I debug horror games at 3AM — it hits different",
-        "🎲 Currently building a Star Wars Roguelike Blackjack game",
         "🕹️ Indie dev who believes gameplay > graphics",
         "☕ Powered by coffee and imposter syndrome"
     ]
