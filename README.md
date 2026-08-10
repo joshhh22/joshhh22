@@ -29,7 +29,7 @@
 
 ```python
 class Joshua:
-    name        = "Joshua"
+    name        = "Joshua Rompis"
     role        = ["Indie Game Developer", "Software Engineering Student"]
     pronouns    = "he/him"
     location    = "🌏 Southeast Asia"
