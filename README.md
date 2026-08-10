@@ -5,12 +5,12 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=🎮+Indie+Game+Developer;🌙+Crafting+Psychological+Horror+in+Unity;💻+Software+Engineering+Student;🩸+Building+games+that+haunt+your+dreams..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Indie+Game+Developer+%F0%9F%8E%AE;Crafting+Psychological+Horror+in+Unity+%F0%9F%8C%99;Software+Engineering+Student+%F0%9F%92%BB;Building+games+that+haunt+your+dreams...+%F0%9FA9%B8" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- PROFILE VIEWS & TROPHIES ROW -->
+<!-- PROFILE VIEWS & STATUS ROW -->
 <img src="https://komarev.com/ghpvc/?username=joshhh22&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="profile views" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/joshhh22?style=for-the-badge&color=9333ea&labelColor=1a0533&label=FOLLOWERS" />
@@ -50,6 +50,7 @@ class JoshuaRompis:
 
     fun_facts = [
         "🩸 I debug horror games at 3AM — it hits different",
+        "🎲 Currently building a Star Wars Roguelike Blackjack game",
         "🕹️ Indie dev who believes gameplay > graphics",
         "☕ Powered by coffee and imposter syndrome"
     ]
@@ -91,7 +92,8 @@ class JoshuaRompis:
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joshhh22&theme=radical&hide_border=true&background=0d0d0d&ring=7c3aed&fire=c084fc&currStreakLabel=a855f7&sideLabels=c084fc&currStreakNum=e2e8f0&dates=94a3b8" />
+<!-- FIXED: Moved from deprecated herokuapp to demolab -->
+<img src="https://streak-stats.demolab.com?user=joshhh22&theme=radical&hide_border=true&background=0d0d0d&ring=7c3aed&fire=c084fc&currStreakLabel=a855f7&sideLabels=c084fc&currStreakNum=e2e8f0&dates=94a3b8" />
 
 <br/>
 
@@ -194,9 +196,9 @@ class JoshuaRompis:
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🎮_Open_To-Game_Dev_Collabs-7c3aed?style=for-the-badge&labelColor=1a0533" />
+<img src="https://img.shields.io/badge/%F0%9F%8E%AE_Open_To-Game_Dev_Collabs-7c3aed?style=for-the-badge&labelColor=1a0533" />
 &nbsp;
-<img src="https://img.shields.io/badge/💻_Open_To-Internships-9333ea?style=for-the-badge&labelColor=1a0533" />
+<img src="https://img.shields.io/badge/%F0%9F%92%BB_Open_To-Internships-9333ea?style=for-the-badge&labelColor=1a0533" />
 
 </div>
 
