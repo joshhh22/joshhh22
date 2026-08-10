@@ -11,9 +11,9 @@
 <br/>
 
 <!-- PROFILE VIEWS & TROPHIES ROW -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=joshhh22&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="profile views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=9333ea&labelColor=1a0533&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/followers/joshhh22?style=for-the-badge&color=9333ea&labelColor=1a0533&label=FOLLOWERS" />
 &nbsp;
 <img src="https://img.shields.io/badge/STATUS-BUILDING%20HORRORS-red?style=for-the-badge&labelColor=1a0533" />
 
@@ -86,17 +86,17 @@ class JoshuaRompis:
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0&ring_color=7c3aed"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joshhh22&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0&ring_color=7c3aed"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=e2e8f0"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshhh22&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=e2e8f0"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0d0d0d&ring=7c3aed&fire=c084fc&currStreakLabel=a855f7&sideLabels=c084fc&currStreakNum=e2e8f0&dates=94a3b8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joshhh22&theme=radical&hide_border=true&background=0d0d0d&ring=7c3aed&fire=c084fc&currStreakLabel=a855f7&sideLabels=c084fc&currStreakNum=e2e8f0&dates=94a3b8" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=joshhh22&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
 
 </div>
 
@@ -168,9 +168,9 @@ class JoshuaRompis:
 ## 🐍 &nbsp; Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joshhh22/joshhh22/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joshhh22/joshhh22/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joshhh22/joshhh22/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
