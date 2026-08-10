@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0a0a1a&height=200&section=header&text=Joshua Rompis&fontSize=80&fontColor=c084fc&animation=fadeIn&fontAlignY=38&desc=Indie%20Game%20Dev%20%7C%20Web%20Dev%20%7C%20Software%20Engineer&descAlignY=60&descSize=18&descColor=a78bfa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0a0a1a&height=200&section=header&text=Joshua%20Rompis&fontSize=65&fontColor=c084fc&animation=fadeIn&fontAlignY=38&desc=Indie%20Game%20Dev%20%7C%20Web%20Dev%20%7C%20Software%20Engineer&descAlignY=60&descSize=18&descColor=a78bfa" width="100%" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -28,8 +28,8 @@
 </div>
 
 ```python
-class Joshua:
-    name        = "Joshua"
+class JoshuaRompis:
+    name        = "Joshua Rompis"
     role        = ["Indie Game Developer", "Software Engineering Student"]
     pronouns    = "he/him"
     location    = "🌏 Southeast Asia"
