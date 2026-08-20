@@ -3,9 +3,9 @@
 <!-- HEADER BANNER NEO-BRUTALISM -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFDF0,50:FFE600,100:FF6B6B&height=180&section=header&text=JOSHUA%20ROMPIS&fontSize=52&fontColor=000000&fontAlignY=42&desc=Indie%20Game%20Dev%20%7C%20Web%20Dev%20%7C%20Software%20Engineer&descAlignY=68&descSize=18&descColor=111111&stroke=000000&strokeWidth=3" width="100%" />
 
-<!-- TYPING ANIMATION (BRUTALIST BADGE) -->
+<!-- TYPING ANIMATION (FIXED & TESTED) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&pause=1000&color=000000&background=FFFDF0&center=true&vCenter=true&width=620&height=40&lines=👾+Indie+Game+Developer;🌙+Crafting+Psychological+Horror+in+Unity;💻+Software+Engineering+Student;⚡+Building+bold+experiences+that+stand+out!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FFE600&center=true&vCenter=true&width=650&lines=Indie+Game+Developer+%F0%9F%8E%AE;Crafting+Psychological+Horror+in+Unity+%F0%9F%8C%99;Software+Engineering+Student+%F0%9F%92%BB;Building+bold+experiences+that+stand+out!+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -113,17 +113,6 @@ class JoshuaRompis:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=joshhh22&bg_color=FFFDF0&color=000000&line=000000&point=FF5722&area=true&area_color=FFE600&hide_border=false&border_color=000000&border_radius=0" alt="Activity Graph" width="100%" />
 
 </div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/joshhh22/joshhh22/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-
-</div>
-
 
 ---
 
