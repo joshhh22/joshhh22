@@ -118,6 +118,17 @@ class JoshuaRompis:
 
 <div align="center">
 
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/joshhh22/joshhh22/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+
+</div>
+
+
+---
+
+<div align="center">
+
 ## 🚀 Tech Arsenal
 
 ### 🎮 Game Development & 3D
