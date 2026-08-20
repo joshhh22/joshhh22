@@ -1,21 +1,29 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0a0a1a&height=200&section=header&text=Joshua%20Rompis&fontSize=65&fontColor=c084fc&animation=fadeIn&fontAlignY=38&desc=Indie%20Game%20Dev%20%7C%20Web%20Dev%20%7C%20Software%20Engineer&descAlignY=60&descSize=18&descColor=a78bfa" width="100%" />
+<!-- HEADER BANNER NEO-BRUTALISM -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFDF0,50:FFE600,100:FF6B6B&height=180&section=header&text=JOSHUA%20ROMPIS&fontSize=52&fontColor=000000&fontAlignY=42&desc=Indie%20Game%20Dev%20%7C%20Web%20Dev%20%7C%20Software%20Engineer&descAlignY=68&descSize=18&descColor=111111&stroke=000000&strokeWidth=3" width="100%" />
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION (BRUTALIST BADGE) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Indie+Game+Developer+%F0%9F%8E%AE;Crafting+Psychological+Horror+in+Unity+%F0%9F%8C%99;Software+Engineering+Student+%F0%9F%92%BB;Building+games+that+haunt+your+dreams...+%F0%9FA9%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&pause=1000&color=000000&background=FFFDF0&center=true&vCenter=true&width=620&height=40&lines=👾+Indie+Game+Developer;🌙+Crafting+Psychological+Horror+in+Unity;💻+Software+Engineering+Student;⚡+Building+bold+experiences+that+stand+out!" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- PROFILE VIEWS & STATUS ROW -->
-<img src="https://komarev.com/ghpvc/?username=joshhh22&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="profile views" />
+<!-- SOCIALS & STATUS (NEO-BRUTALIST BADGES) -->
+<a href="mailto:joshuarompisb@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" />
+</a>
 &nbsp;
-<img src="https://img.shields.io/github/followers/joshhh22?style=for-the-badge&color=9333ea&labelColor=1a0533&label=FOLLOWERS" />
+<a href="https://github.com/joshhh22">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
+</a>
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-BUILDING%20HORRORS-red?style=for-the-badge&labelColor=1a0533" />
+<a href="#">
+  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" alt="Discord" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=joshhh22&style=for-the-badge&color=FFE600&labelColor=000000&label=VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -23,7 +31,7 @@
 
 <div align="center">
 
-## 👤 &nbsp; `whoami`
+## 👤 `whoami`
 
 </div>
 
@@ -55,63 +63,5 @@ class JoshuaRompis:
     ]
 
     def greet(self):
-        return "Welcome to my corner of the dark web. Don't be scared. 👁️"
-```
-
----
-
-<div align="center">
-
-## 🚀 &nbsp; Tech Arsenal
-
-<br/>
-
-### 🎮 &nbsp; Game Development
-<img src="https://skillicons.dev/icons?i=unity,cs,blender&theme=dark" />
-
-### 🌐 &nbsp; Web Development  
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,postgres,html,css,js&theme=dark" />
-
-### 🛠️ &nbsp; Other Languages
-<img src="https://skillicons.dev/icons?i=cpp,lua&theme=dark" />
-
-</div>
-
----
-
-
-
-<div align="center">
-
-## 📡 &nbsp; Connect With Me
-
-<br/>
-
-<a href="mailto:joshuarompisb@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-joshuarompisb@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0533" />
-</a>
-
-<br/><br/>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Discord-joshh3015-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a0533" />
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/%F0%9F%8E%AE_Open_To-Game_Dev_Collabs-7c3aed?style=for-the-badge&labelColor=1a0533" />
-&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%92%BB_Open_To-Internships-9333ea?style=for-the-badge&labelColor=1a0533" />
-
-</div>
-
----
-
-<div align="center">
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:0a0a1a,100:0d0d0d&height=120&section=footer&text=Thanks%20for%20visiting%2C%20stranger...&fontSize=16&fontColor=a78bfa&animation=twinkling&fontAlignY=65" width="100%" />
-
-<sub>⚡ Made with too much caffeine & not enough sleep • Horror doesn't write itself 🩸</sub>
-
-</div>
+        return "Welcome to my workspace! Let's build something bold. ⚡"
+<img width="1050" height="332" alt="image" src="https://github.com/user-attachments/assets/0ef6873f-8c2c-49a1-8089-0f137e6f0989" />
